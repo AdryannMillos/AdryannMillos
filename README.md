@@ -2,12 +2,40 @@
 
 ## 🚀 About Me
 
-🎓 I am Adryann Millos, a **Full stack Web Developer** with focus on the Back end.
+😄 I am Adryann Millos, a **Full stack Web Developer** with focus on the Back end. I love to solve problems and the feeling to overcome a hard task.
 
-👨‍💻 I enjoy contributing to **Open Source Projects** and have contributed to several Gigantic Organizations including, **Material UI**, **Microsoft**, **Amazon**, **Webhint**, and countless others. I am really enthusiastic about learning new technology. In 2021, I learned **Next.js**, **Progressive Web App (PWA)**, **GraphQL**, **Micro-Frontend Architecture** and **Blockchain development & DApps**. I got started with [**Freelancing**](https://www.upwork.com/freelancers/~01c12e516ee1d35044) and [**Blogging**](https://dev.to/ruppysuppy) quite recently and made a name for myself.
+👨‍💻 I enjoy to learn new technologies and work in my own projects.
 
-🎸 Outside the world of tech too, I enjoy pushing myself to develop new skills. My hobbies range from **guitar**, **break dancing (hip-hop)**, **sketching**, and **touch typing** to some whacky ones like **writing with my left hand**.
+😋 I enjoy hanging out with my friends, eat lots of junk food, play video games and Magic The Gathering.
 
-📚 I also love reading books on **personal development** & **financial literacy**. My favorite ones are **The Compound Effect** by _Darren Hardy_ in the genre of personal development and **Rich Dad Poor Dad** by _Robert Kiyosaki_ in the genre of financial literacy.
+📚 I am always trying to improve my knowledge and go deeper in the concepts. For me the most valuable skill a programmer must have is to know how to search
+and to know the time to ask for help.
 
-✈️ I love **traveling** too. I have been on solo trips to **Bhutan** in _2018_ and to **Hyderabad, India** in _2021_.
+### Technologies and Tools
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original-wordmark.svg"  width="40" height="40"/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" height="40"/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40"/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-plain.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="40" height="40"/>
+          
+### Contacts
+
+<div>
+<a href = "adryann312@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+<a href="https://www.linkedin.com/in/adryann-millos/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
+</div>
+ 
+<div>
+<a href="https://github.com/seu-usuário-aqui">
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AdryannMillos&layout=compact&langs_count=7&theme=dracula"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=AdryannMillos&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+</div>         
+          
+          
+          
+          
+          
+          
+
+          
+                    
+
+
+![Snake animation](https://github.com/AdryannMillos/AdryannMillos/blob/output/github-contribution-grid-snake.svg)
